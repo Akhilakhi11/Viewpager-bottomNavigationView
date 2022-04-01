@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/black"
+        android:id="@+id/home"/>
+
+    <item android:title="Favorite"
+        android:icon="@drawable/ic_fav"
+        android:id="@+id/favorite"
+        android:iconTint="@color/black"/>
+
+    <item android:title="Store"
+        android:icon="@drawable/ic_store"
+        android:id="@+id/store"
+        android:iconTint="@color/black"/>
+
+    <item android:title="Account"
+        android:icon="@drawable/ic_account"
+        android:id="@+id/account"
+        android:iconTint="@color/black"/>
+
+
+
+</menu>
